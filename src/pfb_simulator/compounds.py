@@ -112,5 +112,8 @@ def print_compound_table(compounds: list[PFASCompound]) -> None:
 
 
 if __name__ == "__main__":
+    from pfb_simulator.validation import validate_compounds
+
     compounds = load_compounds("data/pfas_reference.json")
+    validate_compounds(compounds)
     print_compound_table(compounds)
