@@ -1,0 +1,29 @@
+[
+  {"name": "Trifluoroacetic acid", "abbr": "TFA", "mw": 114.02, "fluorine_atoms": 3, "category": "PFCA_short"},
+  {"name": "Perfluorobutanoic acid", "abbr": "PFBA", "mw": 214.04, "fluorine_atoms": 7, "category": "PFCA"},
+  {"name": "Perfluoropentanoic acid", "abbr": "PFPeA", "mw": 264.05, "fluorine_atoms": 9, "category": "PFCA"},
+  {"name": "Perfluorohexanoic acid", "abbr": "PFHxA", "mw": 314.05, "fluorine_atoms": 11, "category": "PFCA"},
+  {"name": "Perfluoroheptanoic acid", "abbr": "PFHpA", "mw": 364.06, "fluorine_atoms": 13, "category": "PFCA"},
+  {"name": "Perfluorooctanoic acid", "abbr": "PFOA", "mw": 414.07, "fluorine_atoms": 15, "category": "PFCA"},
+  {"name": "Perfluorononanoic acid", "abbr": "PFNA", "mw": 464.08, "fluorine_atoms": 17, "category": "PFCA"},
+  {"name": "Perfluorodecanoic acid", "abbr": "PFDA", "mw": 514.08, "fluorine_atoms": 19, "category": "PFCA"},
+  {"name": "Perfluoroundecanoic acid", "abbr": "PFUnDA", "mw": 564.09, "fluorine_atoms": 21, "category": "PFCA"},
+  {"name": "Perfluorododecanoic acid", "abbr": "PFDoDA", "mw": 614.10, "fluorine_atoms": 23, "category": "PFCA"},
+  {"name": "Perfluorotridecanoic acid", "abbr": "PFTrDA", "mw": 664.10, "fluorine_atoms": 25, "category": "PFCA"},
+  {"name": "Perfluorotetradecanoic acid", "abbr": "PFTeDA", "mw": 714.11, "fluorine_atoms": 27, "category": "PFCA"},
+
+  {"name": "Perfluorobutanesulfonic acid", "abbr": "PFBS", "mw": 300.10, "fluorine_atoms": 9, "category": "PFSA"},
+  {"name": "Perfluoropentanesulfonic acid", "abbr": "PFPeS", "mw": 350.11, "fluorine_atoms": 11, "category": "PFSA"},
+  {"name": "Perfluorohexanesulfonic acid", "abbr": "PFHxS", "mw": 400.12, "fluorine_atoms": 13, "category": "PFSA"},
+  {"name": "Perfluoroheptanesulfonic acid", "abbr": "PFHpS", "mw": 450.12, "fluorine_atoms": 15, "category": "PFSA"},
+  {"name": "Perfluorooctanesulfonic acid", "abbr": "PFOS", "mw": 500.13, "fluorine_atoms": 17, "category": "PFSA"},
+  {"name": "Perfluorononanesulfonic acid", "abbr": "PFNS", "mw": 550.14, "fluorine_atoms": 19, "category": "PFSA"},
+  {"name": "Perfluorodecanesulfonic acid", "abbr": "PFDS", "mw": 600.15, "fluorine_atoms": 21, "category": "PFSA"},
+
+  {"name": "Hexafluoropropylene oxide dimer acid", "abbr": "HFPO-DA", "mw": 330.05, "fluorine_atoms": 11, "category": "replacement"},
+  {"name": "ADONA", "abbr": "ADONA", "mw": 378.07, "fluorine_atoms": 13, "category": "replacement"},
+  {"name": "6:2 Fluorotelomer sulfonate", "abbr": "6:2 FTS", "mw": 428.17, "fluorine_atoms": 13, "category": "FTS"},
+  {"name": "8:2 Fluorotelomer sulfonate", "abbr": "8:2 FTS", "mw": 528.18, "fluorine_atoms": 17, "category": "FTS"},
+  {"name": "9-chlorohexadecafluoro-3-oxanonane-1-sulfonic acid", "abbr": "9Cl-PF3ONS", "mw": 532.58, "fluorine_atoms": 16, "category": "PFESA"},
+  {"name": "11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid", "abbr": "11Cl-PF3OUdS", "mw": 632.60, "fluorine_atoms": 20, "category": "PFESA"}
+]
