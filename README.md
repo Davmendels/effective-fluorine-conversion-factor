@@ -16,6 +16,9 @@ This repository accompanies the manuscript
 
 currently submitted for peer review.
 
+
+Repository DOI: **(Zenodo DOI to be inserted)**
+
 ## Overview
 
 This repository implements the Effective Fluorine Conversion Factor
@@ -123,24 +126,52 @@ The final outputs are written to results/ and figures/.
 Small differences may occur across software versions because of
 floating-point calculations and percentile implementations.
 
-### Data provenance
 
-A complete dataset inventory, original sources, download locations,
-sample counts, and preprocessing notes are provided in:
+### Environmental datasets
+
+The environmental datasets analysed in this work originate primarily
+from the PFAS Data Hub (CNRS) together with publicly available
+monitoring datasets from the United States.
+
+A complete inventory is provided in
+
+- supplementary/dataset_inventory.csv
+
+including
+
+- original source
+- compartment
+- sample counts
+- retrieval date
+- SHA-256 checksum
+- preprocessing notes
+
+Raw third-party datasets are not redistributed through this
+repository because they remain subject to their original licensing
+terms.
+
+Place downloaded datasets in
 
 ```bash
-supplementary/dataset_inventory.csv
-datasets/README.md
+datasets/raw/
 ```
 
-## Reproducibility note
+following the filenames listed in the inventory.
 
-Figure 3 is an internal reconstruction analysis. Reported total PFAS
-and calculated fluorine burdens are derived from the same targeted
-analyte concentrations. It evaluates the uncertainty introduced by
-replacing sample-specific PFAS composition with a single global EFCF;
-it is not an independent experimental validation against measured EOF
-or AOF.
+## Reproducibility
+
+All analyses presented in the accompanying manuscript are fully
+reproducible from the source datasets using the scripts contained in
+this repository.
+
+The repository intentionally separates
+
+- original environmental datasets,
+- derived analysis results,
+- publication figures,
+- source code,
+
+to maximise transparency and facilitate independent verification.
 
 ## Citation
 
@@ -151,8 +182,8 @@ See CITATION.cff.
 Source code is distributed under the BSD 3-Clause License.
 
 Original documentation and derived research outputs are available under
-CC BY 4.0 unless otherwise stated. External datasets remain subject to
-their original terms and licences.
+CC BY 4.0 unless otherwise stated. External datasets remain subject to their original licences and are not redistributed unless explicitly permitted by their respective
+providers.
 
 ## Contributing
 
