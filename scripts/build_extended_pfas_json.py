@@ -7,7 +7,7 @@ from pathlib import Path
 import pandas as pd
 
 
-INPUT_CSV = Path("mnt/data/Chemical_List_PFASSTRUCTV6-2026-07-07.csv")
+INPUT_CSV = Path("datasets/raw/Chemical_List_PFASSTRUCTV6-2026-07-07.csv")
 OUTPUT_JSON = Path("data/pfas_extended.json")
 ENV_OUTPUT_JSON = Path("data/pfas_extended_environmental.json")
 

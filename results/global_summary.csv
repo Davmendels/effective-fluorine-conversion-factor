@@ -1,0 +1,11 @@
+,0
+n_datasets,16.0
+n_total_samples,155313.0
+global_median_efcf,1.5479222877186745
+global_mean_efcf,1.5488111098798159
+global_std_efcf,0.06957545738324268
+global_p05_efcf,1.4529993089328497
+global_p95_efcf,1.658404017630266
+between_dataset_median_efcf_mean,1.5419787197047294
+between_dataset_median_efcf_std,0.025821721127650125
+between_dataset_median_efcf_cv,0.01674583494420382
