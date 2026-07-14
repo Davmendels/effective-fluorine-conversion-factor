@@ -35,9 +35,7 @@ environmental monitoring datasets.
 
 Across more than 800,000 environmental samples, the global median EFCF is:
 
-\[
-\mathrm{EFCF} = 1.548
-\]
+`EFCF} = 1.548`
 
 Using this value, 90% of internally reconstructed total-PFAS
 concentrations fall within approximately -6.7% to +6.5% of the
